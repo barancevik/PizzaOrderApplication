@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#Learn\Projects\PizzaorderApplication\PizzaorderApplication\bin\Debug\PizzaorderApplication.exe.config
+C:\Users\user\Desktop\C#Learn\Projects\PizzaorderApplication\PizzaorderApplication\bin\Debug\PizzaorderApplication.exe
+C:\Users\user\Desktop\C#Learn\Projects\PizzaorderApplication\PizzaorderApplication\bin\Debug\PizzaorderApplication.pdb
+C:\Users\user\Desktop\C#Learn\Projects\PizzaorderApplication\PizzaorderApplication\obj\Debug\PizzaorderApplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#Learn\Projects\PizzaorderApplication\PizzaorderApplication\obj\Debug\PizzaorderApplication.Form1.resources
+C:\Users\user\Desktop\C#Learn\Projects\PizzaorderApplication\PizzaorderApplication\obj\Debug\PizzaorderApplication.Properties.Resources.resources
+C:\Users\user\Desktop\C#Learn\Projects\PizzaorderApplication\PizzaorderApplication\obj\Debug\PizzaorderApplication.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#Learn\Projects\PizzaorderApplication\PizzaorderApplication\obj\Debug\PizzaorderApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#Learn\Projects\PizzaorderApplication\PizzaorderApplication\obj\Debug\PizzaorderApplication.exe
+C:\Users\user\Desktop\C#Learn\Projects\PizzaorderApplication\PizzaorderApplication\obj\Debug\PizzaorderApplication.pdb
